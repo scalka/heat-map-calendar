@@ -1,0 +1,22 @@
+{
+  "name": "calendar-heat-map",
+  "version": "0.1.0",
+  "author": "Sylwia Calka",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "d3": "^5.4.0",
+    "moment": "^2.22.1",
+    "react": "^16.4.0",
+    "react-calendar-heatmap": "^1.6.3",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

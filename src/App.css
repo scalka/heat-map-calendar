@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+/*
+ * react-calendar-heatmap styles
+ */
+
+.react-calendar-heatmap text {
+  font-size: 8px;
+  fill: #000000;
+  margin: 5px;
+}
+
+.react-calendar-heatmap .react-calendar-heatmap-small-text {
+  font-size: 5px;
+}
+
+.react-calendar-heatmap rect:hover {
+  stroke: #555;
+  stroke-width: 1px;
+}
+
+.react-calendar-heatmap .color-empty {
+  fill: #eeeeee;
+}
+
+rect.color-filled.color-scale-0 {
+  fill: #eeeeee;
+}
+
+.color-scale-300 {
+  fill: hsla(193, 100%, 70%, 1)
+}
+
+.color-scale-600 {
+  fill: hsla(193, 100%, 50%, 1)
+}
+
+.color-scale-900 {
+  fill: hsla(193, 100%, 40%, 1)
+}
+
+.color-scale-1200 {
+  fill: hsla(193, 100%, 30%, 1)
+}
+
+.color-scale-1500 {
+  fill: hsla(193, 100%, 20%, 1)
+}
+
+.color-scale-1800 {
+  fill: hsla(193, 100%, 10%, 1)
+}
+
+.color-scale-2100 {
+  fill: hsla(193, 100%, 5%, 1)
+}
+
+/*Form*/
+
+form {
+  text-align: left;
+}
+/*Cards*/
+
+.card {
+  margin: 10px;
+  text-align: left;
+}
+
+.card-header {
+  text-align: center;
+  font-size: 1.5rem;
+}
+/*Labels*/
+.weekday-label {
+  width: 100%;
+  display: flex; /*or inline-flex*/
+  justify-content: space-around;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.months-buttons-col {
+  text-align: left;
+}
+
+.tags {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-items: stretch;
+}
+
+.tags > button {
+  flex: 0 1 auto;
+  min-width: 94px;
+}
+
+.badge {
+  margin-left: 10px;
+  margin-left: 10px;
+}
+

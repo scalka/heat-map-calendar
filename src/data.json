@@ -1,0 +1,702 @@
+[
+  {
+    "date": "2018-04-07",
+    "impressions": 752,
+    "clicks": 291,
+    "campaign": "Campaign 24",
+    "ad": "Ad 44"
+  },
+  {
+    "date": "2018-03-17",
+    "impressions": 170,
+    "clicks": 344,
+    "campaign": "Campaign 85",
+    "ad": "Ad 20"
+  },
+  {
+    "date": "2018-01-18",
+    "impressions": 755,
+    "clicks": 300,
+    "campaign": "Campaign 68",
+    "ad": "Ad 31"
+  },
+  {
+    "date": "2018-03-30",
+    "impressions": 458,
+    "clicks": 172,
+    "campaign": "Campaign 94",
+    "ad": "Ad 49"
+  },
+  {
+    "date": "2018-02-11",
+    "impressions": 578,
+    "clicks": 441,
+    "campaign": "Campaign 93",
+    "ad": "Ad 19"
+  },
+  {
+    "date": "2018-02-08",
+    "impressions": 223,
+    "clicks": 123,
+    "campaign": "Campaign 28",
+    "ad": "Ad 15"
+  },
+  {
+    "date": "2018-02-08",
+    "impressions": 590,
+    "clicks": 406,
+    "campaign": "Campaign 53",
+    "ad": "Ad 44"
+  },
+  {
+    "date": "2018-01-26",
+    "impressions": 932,
+    "clicks": 307,
+    "campaign": "Campaign 76",
+    "ad": "Ad 27"
+  },
+  {
+    "date": "2018-05-02",
+    "impressions": 286,
+    "clicks": 161,
+    "campaign": "Campaign 53",
+    "ad": "Ad 30"
+  },
+  {
+    "date": "2018-03-22",
+    "impressions": 986,
+    "clicks": 227,
+    "campaign": "Campaign 62",
+    "ad": "Ad 32"
+  },
+  {
+    "date": "2018-03-07",
+    "impressions": 909,
+    "clicks": 324,
+    "campaign": "Campaign 45",
+    "ad": "Ad 14"
+  },
+  {
+    "date": "2018-03-09",
+    "impressions": 735,
+    "clicks": 239,
+    "campaign": "Campaign 60",
+    "ad": "Ad 23"
+  },
+  {
+    "date": "2018-05-16",
+    "impressions": 325,
+    "clicks": 144,
+    "campaign": "Campaign 9",
+    "ad": "Ad 1"
+  },
+  {
+    "date": "2018-04-26",
+    "impressions": 784,
+    "clicks": 443,
+    "campaign": "Campaign 100",
+    "ad": "Ad 50"
+  },
+  {
+    "date": "2018-05-10",
+    "impressions": 692,
+    "clicks": 19,
+    "campaign": "Campaign 64",
+    "ad": "Ad 18"
+  },
+  {
+    "date": "2018-02-26",
+    "impressions": 784,
+    "clicks": 300,
+    "campaign": "Campaign 34",
+    "ad": "Ad 2"
+  },
+  {
+    "date": "2018-02-27",
+    "impressions": 24,
+    "clicks": 340,
+    "campaign": "Campaign 48",
+    "ad": "Ad 29"
+  },
+  {
+    "date": "2018-04-04",
+    "impressions": 971,
+    "clicks": 394,
+    "campaign": "Campaign 13",
+    "ad": "Ad 19"
+  },
+  {
+    "date": "2018-04-29",
+    "impressions": 10,
+    "clicks": 463,
+    "campaign": "Campaign 80",
+    "ad": "Ad 21"
+  },
+  {
+    "date": "2018-02-28",
+    "impressions": 258,
+    "clicks": 128,
+    "campaign": "Campaign 75",
+    "ad": "Ad 28"
+  },
+  {
+    "date": "2018-01-17",
+    "impressions": 290,
+    "clicks": 249,
+    "campaign": "Campaign 72",
+    "ad": "Ad 22"
+  },
+  {
+    "date": "2018-02-09",
+    "impressions": 351,
+    "clicks": 297,
+    "campaign": "Campaign 79",
+    "ad": "Ad 37"
+  },
+  {
+    "date": "2018-03-23",
+    "impressions": 980,
+    "clicks": 109,
+    "campaign": "Campaign 13",
+    "ad": "Ad 7"
+  },
+  {
+    "date": "2018-03-15",
+    "impressions": 215,
+    "clicks": 314,
+    "campaign": "Campaign 35",
+    "ad": "Ad 33"
+  },
+  {
+    "date": "2018-03-05",
+    "impressions": 72,
+    "clicks": 153,
+    "campaign": "Campaign 38",
+    "ad": "Ad 2"
+  },
+  {
+    "date": "2018-03-11",
+    "impressions": 217,
+    "clicks": 50,
+    "campaign": "Campaign 10",
+    "ad": "Ad 28"
+  },
+  {
+    "date": "2018-04-23",
+    "impressions": 356,
+    "clicks": 283,
+    "campaign": "Campaign 96",
+    "ad": "Ad 17"
+  },
+  {
+    "date": "2018-01-17",
+    "impressions": 996,
+    "clicks": 114,
+    "campaign": "Campaign 49",
+    "ad": "Ad 47"
+  },
+  {
+    "date": "2018-01-11",
+    "impressions": 90,
+    "clicks": 260,
+    "campaign": "Campaign 14",
+    "ad": "Ad 9"
+  },
+  {
+    "date": "2018-01-12",
+    "impressions": 944,
+    "clicks": 185,
+    "campaign": "Campaign 78",
+    "ad": "Ad 20"
+  },
+  {
+    "date": "2018-05-04",
+    "impressions": 607,
+    "clicks": 160,
+    "campaign": "Campaign 25",
+    "ad": "Ad 35"
+  },
+  {
+    "date": "2018-04-15",
+    "impressions": 474,
+    "clicks": 410,
+    "campaign": "Campaign 77",
+    "ad": "Ad 1"
+  },
+  {
+    "date": "2018-05-19",
+    "impressions": 751,
+    "clicks": 359,
+    "campaign": "Campaign 1",
+    "ad": "Ad 1"
+  },
+  {
+    "date": "2018-03-05",
+    "impressions": 443,
+    "clicks": 10,
+    "campaign": "Campaign 67",
+    "ad": "Ad 47"
+  },
+  {
+    "date": "2018-04-26",
+    "impressions": 230,
+    "clicks": 234,
+    "campaign": "Campaign 55",
+    "ad": "Ad 31"
+  },
+  {
+    "date": "2018-02-10",
+    "impressions": 899,
+    "clicks": 427,
+    "campaign": "Campaign 18",
+    "ad": "Ad 11"
+  },
+  {
+    "date": "2018-02-06",
+    "impressions": 671,
+    "clicks": 478,
+    "campaign": "Campaign 1",
+    "ad": "Ad 24"
+  },
+  {
+    "date": "2018-03-05",
+    "impressions": 253,
+    "clicks": 87,
+    "campaign": "Campaign 55",
+    "ad": "Ad 9"
+  },
+  {
+    "date": "2018-05-06",
+    "impressions": 15,
+    "clicks": 39,
+    "campaign": "Campaign 69",
+    "ad": "Ad 19"
+  },
+  {
+    "date": "2018-03-15",
+    "impressions": 976,
+    "clicks": 209,
+    "campaign": "Campaign 72",
+    "ad": "Ad 38"
+  },
+  {
+    "date": "2018-03-09",
+    "impressions": 36,
+    "clicks": 460,
+    "campaign": "Campaign 69",
+    "ad": "Ad 22"
+  },
+  {
+    "date": "2018-04-08",
+    "impressions": 87,
+    "clicks": 348,
+    "campaign": "Campaign 14",
+    "ad": "Ad 6"
+  },
+  {
+    "date": "2018-02-12",
+    "impressions": 793,
+    "clicks": 489,
+    "campaign": "Campaign 80",
+    "ad": "Ad 22"
+  },
+  {
+    "date": "2018-04-15",
+    "impressions": 415,
+    "clicks": 316,
+    "campaign": "Campaign 39",
+    "ad": "Ad 33"
+  },
+  {
+    "date": "2018-04-04",
+    "impressions": 243,
+    "clicks": 42,
+    "campaign": "Campaign 61",
+    "ad": "Ad 43"
+  },
+  {
+    "date": "2018-02-11",
+    "impressions": 253,
+    "clicks": 222,
+    "campaign": "Campaign 19",
+    "ad": "Ad 2"
+  },
+  {
+    "date": "2018-01-07",
+    "impressions": 88,
+    "clicks": 283,
+    "campaign": "Campaign 22",
+    "ad": "Ad 29"
+  },
+  {
+    "date": "2018-04-24",
+    "impressions": 791,
+    "clicks": 427,
+    "campaign": "Campaign 61",
+    "ad": "Ad 2"
+  },
+  {
+    "date": "2018-03-01",
+    "impressions": 671,
+    "clicks": 454,
+    "campaign": "Campaign 43",
+    "ad": "Ad 4"
+  },
+  {
+    "date": "2018-03-31",
+    "impressions": 572,
+    "clicks": 82,
+    "campaign": "Campaign 18",
+    "ad": "Ad 12"
+  },
+  {
+    "date": "2018-03-13",
+    "impressions": 666,
+    "clicks": 473,
+    "campaign": "Campaign 96",
+    "ad": "Ad 30"
+  },
+  {
+    "date": "2018-03-19",
+    "impressions": 186,
+    "clicks": 39,
+    "campaign": "Campaign 52",
+    "ad": "Ad 38"
+  },
+  {
+    "date": "2018-02-10",
+    "impressions": 392,
+    "clicks": 459,
+    "campaign": "Campaign 65",
+    "ad": "Ad 10"
+  },
+  {
+    "date": "2018-05-11",
+    "impressions": 28,
+    "clicks": 461,
+    "campaign": "Campaign 61",
+    "ad": "Ad 47"
+  },
+  {
+    "date": "2018-01-13",
+    "impressions": 22,
+    "clicks": 203,
+    "campaign": "Campaign 72",
+    "ad": "Ad 24"
+  },
+  {
+    "date": "2018-04-13",
+    "impressions": 247,
+    "clicks": 114,
+    "campaign": "Campaign 13",
+    "ad": "Ad 4"
+  },
+  {
+    "date": "2018-04-19",
+    "impressions": 776,
+    "clicks": 371,
+    "campaign": "Campaign 6",
+    "ad": "Ad 46"
+  },
+  {
+    "date": "2018-05-04",
+    "impressions": 240,
+    "clicks": 206,
+    "campaign": "Campaign 97",
+    "ad": "Ad 16"
+  },
+  {
+    "date": "2018-05-06",
+    "impressions": 577,
+    "clicks": 364,
+    "campaign": "Campaign 12",
+    "ad": "Ad 37"
+  },
+  {
+    "date": "2018-03-01",
+    "impressions": 554,
+    "clicks": 86,
+    "campaign": "Campaign 82",
+    "ad": "Ad 47"
+  },
+  {
+    "date": "2018-04-05",
+    "impressions": 771,
+    "clicks": 14,
+    "campaign": "Campaign 34",
+    "ad": "Ad 12"
+  },
+  {
+    "date": "2018-04-02",
+    "impressions": 664,
+    "clicks": 379,
+    "campaign": "Campaign 95",
+    "ad": "Ad 33"
+  },
+  {
+    "date": "2018-03-09",
+    "impressions": 571,
+    "clicks": 403,
+    "campaign": "Campaign 28",
+    "ad": "Ad 15"
+  },
+  {
+    "date": "2018-01-31",
+    "impressions": 399,
+    "clicks": 317,
+    "campaign": "Campaign 26",
+    "ad": "Ad 6"
+  },
+  {
+    "date": "2018-01-16",
+    "impressions": 61,
+    "clicks": 416,
+    "campaign": "Campaign 55",
+    "ad": "Ad 41"
+  },
+  {
+    "date": "2018-05-15",
+    "impressions": 142,
+    "clicks": 111,
+    "campaign": "Campaign 24",
+    "ad": "Ad 24"
+  },
+  {
+    "date": "2018-04-02",
+    "impressions": 78,
+    "clicks": 487,
+    "campaign": "Campaign 32",
+    "ad": "Ad 14"
+  },
+  {
+    "date": "2018-02-21",
+    "impressions": 811,
+    "clicks": 346,
+    "campaign": "Campaign 2",
+    "ad": "Ad 48"
+  },
+  {
+    "date": "2018-04-28",
+    "impressions": 438,
+    "clicks": 301,
+    "campaign": "Campaign 30",
+    "ad": "Ad 36"
+  },
+  {
+    "date": "2018-05-07",
+    "impressions": 803,
+    "clicks": 14,
+    "campaign": "Campaign 54",
+    "ad": "Ad 12"
+  },
+  {
+    "date": "2018-05-03",
+    "impressions": 242,
+    "clicks": 286,
+    "campaign": "Campaign 90",
+    "ad": "Ad 42"
+  },
+  {
+    "date": "2018-03-05",
+    "impressions": 511,
+    "clicks": 51,
+    "campaign": "Campaign 86",
+    "ad": "Ad 18"
+  },
+  {
+    "date": "2018-04-28",
+    "impressions": 472,
+    "clicks": 305,
+    "campaign": "Campaign 99",
+    "ad": "Ad 44"
+  },
+  {
+    "date": "2018-04-18",
+    "impressions": 695,
+    "clicks": 103,
+    "campaign": "Campaign 13",
+    "ad": "Ad 11"
+  },
+  {
+    "date": "2018-03-08",
+    "impressions": 509,
+    "clicks": 346,
+    "campaign": "Campaign 67",
+    "ad": "Ad 2"
+  },
+  {
+    "date": "2018-03-19",
+    "impressions": 592,
+    "clicks": 10,
+    "campaign": "Campaign 52",
+    "ad": "Ad 37"
+  },
+  {
+    "date": "2018-01-24",
+    "impressions": 931,
+    "clicks": 43,
+    "campaign": "Campaign 65",
+    "ad": "Ad 39"
+  },
+  {
+    "date": "2018-03-27",
+    "impressions": 489,
+    "clicks": 167,
+    "campaign": "Campaign 20",
+    "ad": "Ad 38"
+  },
+  {
+    "date": "2018-05-07",
+    "impressions": 903,
+    "clicks": 469,
+    "campaign": "Campaign 92",
+    "ad": "Ad 44"
+  },
+  {
+    "date": "2018-02-07",
+    "impressions": 466,
+    "clicks": 320,
+    "campaign": "Campaign 71",
+    "ad": "Ad 40"
+  },
+  {
+    "date": "2018-01-22",
+    "impressions": 595,
+    "clicks": 167,
+    "campaign": "Campaign 32",
+    "ad": "Ad 1"
+  },
+  {
+    "date": "2018-05-19",
+    "impressions": 53,
+    "clicks": 297,
+    "campaign": "Campaign 32",
+    "ad": "Ad 1"
+  },
+  {
+    "date": "2018-02-10",
+    "impressions": 743,
+    "clicks": 239,
+    "campaign": "Campaign 55",
+    "ad": "Ad 34"
+  },
+  {
+    "date": "2018-05-13",
+    "impressions": 672,
+    "clicks": 82,
+    "campaign": "Campaign 90",
+    "ad": "Ad 15"
+  },
+  {
+    "date": "2018-03-15",
+    "impressions": 730,
+    "clicks": 229,
+    "campaign": "Campaign 78",
+    "ad": "Ad 20"
+  },
+  {
+    "date": "2018-05-19",
+    "impressions": 645,
+    "clicks": 180,
+    "campaign": "Campaign 10",
+    "ad": "Ad 38"
+  },
+  {
+    "date": "2018-05-18",
+    "impressions": 930,
+    "clicks": 44,
+    "campaign": "Campaign 14",
+    "ad": "Ad 4"
+  },
+  {
+    "date": "2018-03-23",
+    "impressions": 517,
+    "clicks": 474,
+    "campaign": "Campaign 95",
+    "ad": "Ad 45"
+  },
+  {
+    "date": "2018-04-21",
+    "impressions": 267,
+    "clicks": 27,
+    "campaign": "Campaign 66",
+    "ad": "Ad 35"
+  },
+  {
+    "date": "2018-01-12",
+    "impressions": 73,
+    "clicks": 483,
+    "campaign": "Campaign 46",
+    "ad": "Ad 48"
+  },
+  {
+    "date": "2018-03-16",
+    "impressions": 140,
+    "clicks": 170,
+    "campaign": "Campaign 61",
+    "ad": "Ad 24"
+  },
+  {
+    "date": "2018-01-17",
+    "impressions": 553,
+    "clicks": 323,
+    "campaign": "Campaign 24",
+    "ad": "Ad 22"
+  },
+  {
+    "date": "2018-05-26",
+    "impressions": 844,
+    "clicks": 290,
+    "campaign": "Campaign 6",
+    "ad": "Ad 27"
+  },
+  {
+    "date": "2018-01-02",
+    "impressions": 132,
+    "clicks": 102,
+    "campaign": "Campaign 17",
+    "ad": "Ad 48"
+  },
+  {
+    "date": "2018-05-01",
+    "impressions": 489,
+    "clicks": 235,
+    "campaign": "Campaign 13",
+    "ad": "Ad 1"
+  },
+  {
+    "date": "2018-01-29",
+    "impressions": 697,
+    "clicks": 189,
+    "campaign": "Campaign 55",
+    "ad": "Ad 13"
+  },
+  {
+    "date": "2018-04-20",
+    "impressions": 526,
+    "clicks": 169,
+    "campaign": "Campaign 61",
+    "ad": "Ad 31"
+  },
+  {
+    "date": "2018-04-26",
+    "impressions": 964,
+    "clicks": 197,
+    "campaign": "Campaign 39",
+    "ad": "Ad 25"
+  },
+  {
+    "date": "2018-05-11",
+    "impressions": 948,
+    "clicks": 481,
+    "campaign": "Campaign 48",
+    "ad": "Ad 13"
+  },
+  {
+    "date": "2018-04-06",
+    "impressions": 60,
+    "clicks": 487,
+    "campaign": "Campaign 22",
+    "ad": "Ad 4"
+  }
+]
